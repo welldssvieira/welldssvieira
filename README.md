@@ -4,7 +4,6 @@ Sou estudante de **Engenharia de Software**, apaixonado por tecnologia e inovaç
 
 Aqui no meu GitHub, você encontrará projetos relacionados ao meu aprendizado, ferramentas que estou criando, atualizações, e outras iniciativas que estou explorando.
 
-<br>
 
 ### 🚀 O que estou fazendo no momento:
 - Desenvolvendo o **Veronnyka**, um app pessoal para me ajudar a gerenciar minha rotina diária.
