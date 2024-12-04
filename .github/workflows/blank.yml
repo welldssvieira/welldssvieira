@@ -1,23 +1,36 @@
-name: Generate Datas
+name: Generate Snake Contribution Graph
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule:
+    # Executa a cada dia às 00:00
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
-  build:
-    name: Jobs to update datas
+  generate-snake:
+    name: Generate Snake Image
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
+      # Baixar repositório
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      
+      # Gerar animação Snake com base nas contribuições
+      - name: Generate Snake Graph
+        uses: Platane/snk@v3
         with:
+          # Nome de usuário do GitHub para ler o gráfico de contribuições
           github_user_name: welldssvieira
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          
+          # Listar os arquivos a serem gerados
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      # Publicar o conteúdo gerado na branch 'gh-pages' ou em outro branch de saída
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
