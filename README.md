@@ -10,16 +10,12 @@ Aqui no meu GitHub, você encontrará projetos relacionados ao meu aprendizado, 
 - Estudando e praticando **programação**, **design** e outras ferramentas para expandir minhas habilidades profissionais.
 - Buscando constantemente o equilíbrio entre minha vida profissional, acadêmica e pessoal.
 
-<br>
-
 ### 📊 Meu progresso 
 <div>
    <!-- Estatísticas -->
     <img src="https://github-readme-stats.vercel.app/api?username=welldssvieira&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dark" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=welldssvieira&layout=compact&theme=dark" /> 
 </div>
-
-<br>
 
 ### 🔧 Ferramentas e Tecnologias que utilizo:
 
@@ -43,21 +39,15 @@ Aqui no meu GitHub, você encontrará projetos relacionados ao meu aprendizado, 
     <img align="center" alt="Welldssvieira-VSCode" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
     <img align="center" alt="Welldssvieira-Git" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="Welldssvieira-GitHub" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  </div>
-
-<br>    
+  </div>   
 
 ### 📚 Atualmente estou estudando:
 - **Engenharia de Software** (1º semestre)
 - Desenvolvimento de **apps e ferramentas** para otimizar minha produtividade e saúde.
-- Inglês
-
-<br>
+- Conversações e traduções em inglês
 
 ### 💬 Vamos conversar!
 Se você quiser bater um papo sobre tecnologia, produtividade, ou qualquer outra coisa, fique à vontade para me enviar uma mensagem. Adoro trocar ideias e aprender com os outros!
-
-<br>
 
 ## 💼 Contato:
 <div>
