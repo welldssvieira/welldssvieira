@@ -22,6 +22,7 @@ Aqui no meu GitHub, você encontrará projetos relacionados ao meu aprendizado, 
 Se você quiser bater um papo sobre tecnologia, produtividade, ou qualquer outra coisa, fique à vontade para me enviar uma mensagem. Adoro trocar ideias e aprender com os outros!
 
 ![Snake animation](https://github.com/welldssvieira/welldssvieira/blob/output/github-contribution-grid-snake.svg)
+s
 
 
 #### 💼 Contato:
