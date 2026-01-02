@@ -6,16 +6,11 @@ Aqui no meu GitHub, você encontrará projetos relacionados ao meu aprendizado, 
 
 
 ### 🚀 O que estou fazendo no momento:
-- Desenvolvendo o **Veronnyka**, um app pessoal para me ajudar a gerenciar minha rotina diária.
+
+<!-- Desenvolvendo o **Veronnyka**, um app pessoal para me ajudar a gerenciar minha rotina diária. -->
+- Escrevendo no meu <a href="https://welldssvieira.me">blog pessoal</a> , artigos sobre tecnologia, minimalismo e estilo de vida.
 - Estudando e praticando **programação**, **design** e outras ferramentas para expandir minhas habilidades profissionais.
 - Buscando constantemente o equilíbrio entre minha vida profissional, acadêmica e pessoal.
-
-### 📊 Meu progresso 
-<div>
-   <!-- Estatísticas -->
-    <img src="https://github-readme-stats.vercel.app/api?username=welldssvieira&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dark" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=welldssvieira&layout=compact&theme=dark" /> 
-</div>
 
 ### 🔧 Ferramentas e Tecnologias que utilizo:
 
@@ -33,7 +28,7 @@ Aqui no meu GitHub, você encontrará projetos relacionados ao meu aprendizado, 
     <img align="center" alt="Welldssvieira-Nodejs" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   </div>
 
-**Outras**:
+**Outras tecnologias**:
   <div>
     <img align="center" alt="Welldssvieira-Photoshop" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
     <img align="center" alt="Welldssvieira-VSCode" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
@@ -49,7 +44,12 @@ Aqui no meu GitHub, você encontrará projetos relacionados ao meu aprendizado, 
 ### 💬 Vamos conversar!
 Se você quiser bater um papo sobre tecnologia, produtividade, ou qualquer outra coisa, fique à vontade para me enviar uma mensagem. Adoro trocar ideias e aprender com os outros!
 
-## 💼 Contato:
+---
+
+## Disponível para freelas - #OpenToWork 🚀
+
+Atualmente estou aberto para oportunidades como Desenvolvedor Frontend e UI/UX Designer. Se você precisa de alguém para transformar ideias em interfaces bonitas, responsivas e funcionais, podemos trabalhar juntos!
+
 <div>
   <!-- Redes Sociais -->
   <a href="https://www.instagram.com/welldssvieira" target="_blank">
@@ -65,7 +65,5 @@ Se você quiser bater um papo sobre tecnologia, produtividade, ou qualquer outra
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
-
----
 
 > "Todos os dias eu tento recomeçar 1% melhor do que o dia anterior 🚀"
